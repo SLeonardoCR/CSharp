@@ -1,0 +1,16 @@
+D:\USER\C Sharp\Lexico_3\obj\Debug\net5.0\Lexico_3.csproj.AssemblyReference.cache
+D:\USER\C Sharp\Lexico_3\obj\Debug\net5.0\Lexico_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\C Sharp\Lexico_3\obj\Debug\net5.0\Lexico_3.AssemblyInfoInputs.cache
+D:\USER\C Sharp\Lexico_3\obj\Debug\net5.0\Lexico_3.AssemblyInfo.cs
+D:\USER\C Sharp\Lexico_3\obj\Debug\net5.0\Lexico_3.csproj.CoreCompileInputs.cache
+D:\USER\C Sharp\Lexico_3\bin\Debug\net5.0\Lexico_3.exe
+D:\USER\C Sharp\Lexico_3\bin\Debug\net5.0\Lexico_3.deps.json
+D:\USER\C Sharp\Lexico_3\bin\Debug\net5.0\Lexico_3.runtimeconfig.json
+D:\USER\C Sharp\Lexico_3\bin\Debug\net5.0\Lexico_3.runtimeconfig.dev.json
+D:\USER\C Sharp\Lexico_3\bin\Debug\net5.0\Lexico_3.dll
+D:\USER\C Sharp\Lexico_3\bin\Debug\net5.0\ref\Lexico_3.dll
+D:\USER\C Sharp\Lexico_3\bin\Debug\net5.0\Lexico_3.pdb
+D:\USER\C Sharp\Lexico_3\obj\Debug\net5.0\Lexico_3.dll
+D:\USER\C Sharp\Lexico_3\obj\Debug\net5.0\ref\Lexico_3.dll
+D:\USER\C Sharp\Lexico_3\obj\Debug\net5.0\Lexico_3.pdb
+D:\USER\C Sharp\Lexico_3\obj\Debug\net5.0\Lexico_3.genruntimeconfig.cache

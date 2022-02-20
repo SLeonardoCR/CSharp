@@ -1,0 +1,130 @@
+Instituto Tecnologico de Queretaro
+Campos Rangel Sergio Leonardo
+-----------------------------------
+Contenido de Prueba.cs: 
+   16/02/2022  09:16 a. m.
+-----------------------------------
+# <caracter>
+include <identificador>
+< <opRelacional>
+stdio <identificador>
+. <caracter>
+h <identificador>
+> <opRelacional>
+# <caracter>
+include <identificador>
+< <opRelacional>
+conio <identificador>
+. <caracter>
+h <identificador>
+> <opRelacional>
+# <caracter>
+include <identificador>
+< <opRelacional>
+math <identificador>
+. <caracter>
+h <identificador>
+> <opRelacional>
+# <caracter>
+include <identificador>
+< <opRelacional>
+stdlib <identificador>
+> <opRelacional>
+# <caracter>
+include <identificador>
+< <opRelacional>
+graphics <identificador>
+. <caracter>
+h <identificador>
+> <opRelacional>
+float <tipoDato>
+x <identificador>
+, <caracter>
+y <identificador>
+; <finSentencia>
+void <identificador>
+main <identificador>
+( <caracter>
+) <caracter>
+{ <caracter>
+printf <identificador>
+( <caracter>
+"\n\tX: " <Cadena>
+) <caracter>
+; <finSentencia>
+scanf <identificador>
+( <caracter>
+"%d" <Cadena>
+, <caracter>
+& <caracter>
+x <identificador>
+) <caracter>
+; <finSentencia>
+printf <identificador>
+( <caracter>
+"\n\tY: " <Cadena>
+) <caracter>
+; <finSentencia>
+scanf <identificador>
+( <caracter>
+"%d" <Cadena>
+, <caracter>
+& <caracter>
+y <identificador>
+) <caracter>
+; <finSentencia>
+printf <identificador>
+( <caracter>
+"\n\ty = %f  x = %f\n" <Cadena>
+, <caracter>
+y <identificador>
+, <caracter>
+x <identificador>
+) <caracter>
+; <finSentencia>
+if <condicion>
+( <caracter>
+x <identificador>
+>= <opRelacional>
+100 <numero>
+) <caracter>
+{ <caracter>
+printf <identificador>
+( <caracter>
+"\tIf 1\n" <Cadena>
+) <caracter>
+; <finSentencia>
+if <condicion>
+( <caracter>
+y <identificador>
+== <opRelacional>
+100 <numero>
+) <caracter>
+{ <caracter>
+printf <identificador>
+( <caracter>
+"\tIf 1.1\n" <Cadena>
+) <caracter>
+; <finSentencia>
+} <caracter>
+else <condicion>
+{ <caracter>
+printf <identificador>
+( <caracter>
+"\telse 1.1\n" <Cadena>
+) <caracter>
+; <finSentencia>
+} <caracter>
+} <caracter>
+if <condicion>
+( <caracter>
+! <opLogico>
+x <identificador>
+<= <opRelacional>
+100 <numero>
+) <caracter>
+{ <caracter>
+if <condicion>
+( <caracter>
+z <identificador>
+Error de Sintaxis: Variable z no declarada  Linea 36

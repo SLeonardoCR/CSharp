@@ -1,0 +1,16 @@
+C:\Users\serch\Documents\C Sharp\Clase1\obj\Debug\net5.0\Clase1.csproj.AssemblyReference.cache
+C:\Users\serch\Documents\C Sharp\Clase1\obj\Debug\net5.0\Clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serch\Documents\C Sharp\Clase1\obj\Debug\net5.0\Clase1.AssemblyInfoInputs.cache
+C:\Users\serch\Documents\C Sharp\Clase1\obj\Debug\net5.0\Clase1.AssemblyInfo.cs
+C:\Users\serch\Documents\C Sharp\Clase1\obj\Debug\net5.0\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\serch\Documents\C Sharp\Clase1\bin\Debug\net5.0\Clase1.exe
+C:\Users\serch\Documents\C Sharp\Clase1\bin\Debug\net5.0\Clase1.deps.json
+C:\Users\serch\Documents\C Sharp\Clase1\bin\Debug\net5.0\Clase1.runtimeconfig.json
+C:\Users\serch\Documents\C Sharp\Clase1\bin\Debug\net5.0\Clase1.runtimeconfig.dev.json
+C:\Users\serch\Documents\C Sharp\Clase1\bin\Debug\net5.0\Clase1.dll
+C:\Users\serch\Documents\C Sharp\Clase1\bin\Debug\net5.0\ref\Clase1.dll
+C:\Users\serch\Documents\C Sharp\Clase1\bin\Debug\net5.0\Clase1.pdb
+C:\Users\serch\Documents\C Sharp\Clase1\obj\Debug\net5.0\Clase1.dll
+C:\Users\serch\Documents\C Sharp\Clase1\obj\Debug\net5.0\ref\Clase1.dll
+C:\Users\serch\Documents\C Sharp\Clase1\obj\Debug\net5.0\Clase1.pdb
+C:\Users\serch\Documents\C Sharp\Clase1\obj\Debug\net5.0\Clase1.genruntimeconfig.cache

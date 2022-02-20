@@ -1,0 +1,16 @@
+D:\USER\Programming\C Sharp\Evalua\bin\Debug\net5.0\Evalua.exe
+D:\USER\Programming\C Sharp\Evalua\bin\Debug\net5.0\Evalua.deps.json
+D:\USER\Programming\C Sharp\Evalua\bin\Debug\net5.0\Evalua.runtimeconfig.json
+D:\USER\Programming\C Sharp\Evalua\bin\Debug\net5.0\Evalua.runtimeconfig.dev.json
+D:\USER\Programming\C Sharp\Evalua\bin\Debug\net5.0\Evalua.dll
+D:\USER\Programming\C Sharp\Evalua\bin\Debug\net5.0\ref\Evalua.dll
+D:\USER\Programming\C Sharp\Evalua\bin\Debug\net5.0\Evalua.pdb
+D:\USER\Programming\C Sharp\Evalua\obj\Debug\net5.0\Evalua.csproj.AssemblyReference.cache
+D:\USER\Programming\C Sharp\Evalua\obj\Debug\net5.0\Evalua.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\Programming\C Sharp\Evalua\obj\Debug\net5.0\Evalua.AssemblyInfoInputs.cache
+D:\USER\Programming\C Sharp\Evalua\obj\Debug\net5.0\Evalua.AssemblyInfo.cs
+D:\USER\Programming\C Sharp\Evalua\obj\Debug\net5.0\Evalua.csproj.CoreCompileInputs.cache
+D:\USER\Programming\C Sharp\Evalua\obj\Debug\net5.0\Evalua.dll
+D:\USER\Programming\C Sharp\Evalua\obj\Debug\net5.0\ref\Evalua.dll
+D:\USER\Programming\C Sharp\Evalua\obj\Debug\net5.0\Evalua.pdb
+D:\USER\Programming\C Sharp\Evalua\obj\Debug\net5.0\Evalua.genruntimeconfig.cache

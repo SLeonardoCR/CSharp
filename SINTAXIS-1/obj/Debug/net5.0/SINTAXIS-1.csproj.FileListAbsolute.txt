@@ -1,0 +1,16 @@
+D:\USER\C Sharp\SINTAXIS-1\obj\Debug\net5.0\SINTAXIS-1.csproj.AssemblyReference.cache
+D:\USER\C Sharp\SINTAXIS-1\obj\Debug\net5.0\SINTAXIS-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\C Sharp\SINTAXIS-1\obj\Debug\net5.0\SINTAXIS-1.AssemblyInfoInputs.cache
+D:\USER\C Sharp\SINTAXIS-1\obj\Debug\net5.0\SINTAXIS-1.AssemblyInfo.cs
+D:\USER\C Sharp\SINTAXIS-1\obj\Debug\net5.0\SINTAXIS-1.csproj.CoreCompileInputs.cache
+D:\USER\C Sharp\SINTAXIS-1\bin\Debug\net5.0\SINTAXIS-1.exe
+D:\USER\C Sharp\SINTAXIS-1\bin\Debug\net5.0\SINTAXIS-1.deps.json
+D:\USER\C Sharp\SINTAXIS-1\bin\Debug\net5.0\SINTAXIS-1.runtimeconfig.json
+D:\USER\C Sharp\SINTAXIS-1\bin\Debug\net5.0\SINTAXIS-1.runtimeconfig.dev.json
+D:\USER\C Sharp\SINTAXIS-1\bin\Debug\net5.0\SINTAXIS-1.dll
+D:\USER\C Sharp\SINTAXIS-1\bin\Debug\net5.0\ref\SINTAXIS-1.dll
+D:\USER\C Sharp\SINTAXIS-1\bin\Debug\net5.0\SINTAXIS-1.pdb
+D:\USER\C Sharp\SINTAXIS-1\obj\Debug\net5.0\SINTAXIS-1.dll
+D:\USER\C Sharp\SINTAXIS-1\obj\Debug\net5.0\ref\SINTAXIS-1.dll
+D:\USER\C Sharp\SINTAXIS-1\obj\Debug\net5.0\SINTAXIS-1.pdb
+D:\USER\C Sharp\SINTAXIS-1\obj\Debug\net5.0\SINTAXIS-1.genruntimeconfig.cache

@@ -1,0 +1,46 @@
+Instituo Tecnologico de Queretaro
+Campos Rangel Sergio Leonardo
+-----------------------------------
+Contenido de Hola.txt: 
+x26 <identificador>
+= <asignacion>
+3.5e-8 <numero>
+; <finSentencia>
+if <condicion>
+( <caracter>
+3.5 <numero>
+*= <incFactor>
+2 <numero>
+< <opRelacional>
+	>>3.5e<< Error de Sintaxis
+) <caracter>
+&& <opLogico>
+& <caracter>
+|| <opLogico>
+| <caracter>
+! <opLogico>
+!= <opRelacional>
+== <opRelacional>
+= <asignacion>
+"Hola Mundo" <Cadena>
+'Hola mundo' <Cadena>
+:= <inicializacion>
+char <tipoDato>
+public <zona>
+? <opTernario>
+++ <incTermino>
++ <opTermino>
+-- <incTermino>
+- <opTermino>
+++ <incTermino>
++= <incTermino>
+x26 <identificador>
+<> <opRelacional>
+3.5e8 <numero>
+; <finSentencia>
+3.5 <numero>
+- <opTermino>
+e8 <identificador>
+; <finSentencia>
+	>>"asdasdasda<< Error de Sintaxis
+	>>//Hola buenas tardes/*Prueba correcta*/*Prueba incorrecta*<< Error de Sintaxis

@@ -1,0 +1,16 @@
+D:\USER\C Sharp\Lexico_2\bin\Debug\net5.0\Lexico_2.exe
+D:\USER\C Sharp\Lexico_2\bin\Debug\net5.0\Lexico_2.deps.json
+D:\USER\C Sharp\Lexico_2\bin\Debug\net5.0\Lexico_2.runtimeconfig.json
+D:\USER\C Sharp\Lexico_2\bin\Debug\net5.0\Lexico_2.runtimeconfig.dev.json
+D:\USER\C Sharp\Lexico_2\bin\Debug\net5.0\Lexico_2.dll
+D:\USER\C Sharp\Lexico_2\bin\Debug\net5.0\ref\Lexico_2.dll
+D:\USER\C Sharp\Lexico_2\bin\Debug\net5.0\Lexico_2.pdb
+D:\USER\C Sharp\Lexico_2\obj\Debug\net5.0\Lexico_2.csproj.AssemblyReference.cache
+D:\USER\C Sharp\Lexico_2\obj\Debug\net5.0\Lexico_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\C Sharp\Lexico_2\obj\Debug\net5.0\Lexico_2.AssemblyInfoInputs.cache
+D:\USER\C Sharp\Lexico_2\obj\Debug\net5.0\Lexico_2.AssemblyInfo.cs
+D:\USER\C Sharp\Lexico_2\obj\Debug\net5.0\Lexico_2.csproj.CoreCompileInputs.cache
+D:\USER\C Sharp\Lexico_2\obj\Debug\net5.0\Lexico_2.dll
+D:\USER\C Sharp\Lexico_2\obj\Debug\net5.0\ref\Lexico_2.dll
+D:\USER\C Sharp\Lexico_2\obj\Debug\net5.0\Lexico_2.pdb
+D:\USER\C Sharp\Lexico_2\obj\Debug\net5.0\Lexico_2.genruntimeconfig.cache

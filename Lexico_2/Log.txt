@@ -1,0 +1,11 @@
+Instituo Tecnologico de Queretaro
+Campos Rangel Sergio Leonardo
+-----------------------------------
+Contenido de Hola.txt: 
+x26 <identificador>
+= <asignacion>
+3.5e-8 <numero>
+x26 <identificador>
+<> <opRelacional>
+3.5e8 <numero>
+; <finSentencia>

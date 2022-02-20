@@ -1,0 +1,12 @@
+  
+
+
+			//Hola Mundo
+			x26=3.5e-8
+			/*if(3.5*=2<3.5e)
+			&&&|||!!====
+			"Hola mundo"
+			'Hola mundo':=char
+			public?
+			+++---+++=*/
+			x26<>3.5e8;
